@@ -1,0 +1,298 @@
+
+
+
+
+/*@-ms-viewport {*/
+/*    width: device-width;*/
+/*}*/
+
+
+.navbar-nav .nav-item{
+
+    margin-right: 30px;
+    font-size:16px;
+    font-family: 'Hind', sans-serif;
+    font-weight: bold;
+}
+.navbar-nav a:hover{
+    background-color: #9cc900;
+}
+
+.carousel-caption h1 {
+    margin-bottom: 50px;
+    font-family: 'Grand Hotel';
+    font-size: 190px;
+}
+
+.collapse {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+.card-img-top {
+    height: 280px;
+}
+
+.bold-text-green {
+    color: #9cc900;
+    font-family: "Grand Hotel";
+    font-size: 70px;
+    font-size: 1.5em;
+}
+
+.sc_title {
+    margin-top: 2.44em;
+    font-size: 40px;
+    text-align: center;
+    font-size: 1.5em;
+
+}
+
+.search-form {
+    background-color: #9cc900;
+}
+
+.sc_line {
+    color: #9cc900;
+    height: 4px;
+    margin: 12px;
+    border: 2px;
+    margin: auto;
+    width: 50px;
+    margin-top: 0px;
+    margin-top: 20px;
+}
+
+.team {
+    height: 500px;
+    width: 1400px;
+}
+
+.btn-btn-lg-btn-primary {
+    color: #9cc900;
+}
+
+.odd-first {
+    padding-right: 1em;
+    box-sizing: border-box;
+}
+
+
+.img-thumbnail {
+    background: linear-gradient(0deg, rgb(110, 172, 98) 20%, rgb(156, 201, 1) 88%);
+    padding: .25rem;
+    background-color: lightgreen;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+.columns_width_icons
+.sc_column_item {
+    padding-right: 1em;
+    box-sizing: border-box;
+}
+
+.columns_wrap {
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-left: 0px;
+
+}
+.content-wrapper1{
+    opacity:0.8;
+}
+
+.text-wrapper {
+    width:100%;
+    position:relative;
+    margin-top: -40%;
+    padding:200px;
+    text-align: center;
+}
+.text-wrapper h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 7vw;
+    font-family: 'cursive';
+    padding-left: 10px;
+
+}
+.sc_line_1{
+
+    color: #9cc900;
+    height: 4px;
+    margin: 12px;
+    border: 2px;
+    margin: auto;
+    width: 50px;
+    margin-top: 20px;
+
+    margin-left: 20px;
+
+}
+
+
+
+
+/*/*/
+
+.sc_line1 {
+    color: #9cc900;
+    height: 4px;
+    margin: 12px;
+    border: 2px;
+    margin: auto;
+    width: 50px;
+    margin-top: 0px;
+    margin-top: 20px;
+}
+
+
+.owl-carousel .item {
+    display: block;
+    width: 400px;
+    height: 200px;
+}
+.owl-carousel .item img {
+    width: 100%;
+    overflow: hidden;
+}
+.owl-carousel .item a {
+    font-family:'Hind', sans-serif;
+    font-size: 20px;
+    font-weight:bold;
+    color:white;
+    text-decoration: none;
+
+}
+/*.owl-carousel .item h3{*/
+/*    margin-top: -120px;*/
+/*   padding:5px 15px;*/
+/*}*/
+
+/*.owl-carousel .item h6{*/
+
+/*    padding: 5px 15px;*/
+/*}*/
+
+/*.owl-carousel {*/
+/*    margin-bottom: 15px*/
+/*}*/
+.text-block {
+    height: 90px;
+    position: absolute;
+    bottom: 0px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 135px;
+    /*padding-right: 50px;*/
+    opacity: 50%;
+    text-align:left;
+
+}
+
+.content-wrapper img{
+    height: 500px;
+    width: 100%;
+    opacity:80%;
+    margin-bottom: 200px;
+}
+
+.text-wrapper1{
+    width:100%;
+    position:relative;
+    margin-top: -60%;
+    padding:200px;
+}
+.text-wrapper1 h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Hind';
+    padding-left: 10px;
+}
+.sc_line2 {
+    color: #9cc900;
+    margin-left: 435px;
+    border: 2px;
+    width: 70px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+#countdown {
+    width: 65%;
+    margin-left: 200px;
+}
+label {
+    clear: both;
+    display: block;
+    padding: 10px;
+}
+/*#countdown span {*/
+/*    background:rgba(255,255,255,.6);*/
+/*    color: dimgrey;*/
+/*    font-size: 24px;*/
+/*    font-weight: normal;*/
+/*    text-align: center;*/
+/*    width: 20%;*/
+/*    height: 30%;*/
+/*    display: block;*/
+/*    float: left;*/
+/*    border-right: 3px solid #FFF;*/
+/*    margin-right: 10px;*/
+/*}*/
+
+
+
+ .img{
+     border-style:none;
+ }
+p{
+    margin-top:0;
+    margin-bottom: 0;
+}
+.footer-color {
+    background-color: #313a42;
+    padding: 20px !important;
+    margin: 0px 0px !important;
+    max-width: 100%;
+}
+.ftco-heading-2 {
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+a{
+    color:white;
+}
+.container{
+    margin-top: 30px;
+}
+
+
+.card-text{
+    font-size: 14px;
+    color:#6f6d6d;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
